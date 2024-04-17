@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <h1>Vai ser uma imagem aqui</h1>
+        <h1>ALURA</h1>
         <ul>
             <li>Escola</li>
             <li>Estudante</li>
